@@ -1,5 +1,5 @@
 {
-  "name": "prerender-file-cache",
+  "name": "prerender-gzip-file-cache",
   "version": "1.0.0",
   "main": "File cache for prerender service.",
   "scripts": {
