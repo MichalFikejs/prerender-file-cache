@@ -1,0 +1,21 @@
+{
+  "name": "prerender-file-cache",
+  "version": "1.0.0",
+  "main": "File cache for prerender service.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalFikejs/prerender-file-cache.git"
+  },
+  "author": "Michal Fikejs <michal@fikejs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichalFikejs/prerender-file-cache/issues"
+  },
+  "homepage": "https://github.com/MichalFikejs/prerender-file-cache#readme",
+  "dependencies": {
+    "async-disk-cache": "^1.3.4"
+  }
+}
